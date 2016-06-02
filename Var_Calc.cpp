@@ -4,6 +4,7 @@
 
 // [[Rcpp::export]]
 
+// Copyright Hien Duy Nguyen - University of Queensland 2016/06/02
 arma::colvec VAR_FUN(SEXP TAU, SEXP XX, SEXP YY, SEXP BETA, SEXP PII, SEXP VAR, int MM, int NN, int GG, int PP, int MAXPP) {
   
   // Load Primary Variables 
