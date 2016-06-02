@@ -4,6 +4,7 @@
 
 // [[Rcpp::export]]
 
+// Copyright Hien Duy Nguyen - University of Queensland 2016/06/02
 arma::mat PSEUDO_FUN(SEXP CC, SEXP NEIGH, SEXP PARA, int NN, int GG) {
   
   // Load Primary Variables 
