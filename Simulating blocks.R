@@ -1,3 +1,6 @@
+## Copyright Hien Duy Nguyen - University of Queensland - 2016/06/02
+
+
 ### Simulation
 SIM1 <- matrix(NA,100,100)
 SIM2 <- matrix(NA,100,100)
