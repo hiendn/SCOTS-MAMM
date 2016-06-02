@@ -1,3 +1,6 @@
+## Copyright Hien Duy Nguyen - University of Queensland 2016/06/02
+
+
 COUNT <- 0
 for (ii in 1:512) {
   for (jj in 1:512) {
