@@ -1,3 +1,6 @@
+## Copyright Hien Duy Nguyen - University of Queensland 2016/06/02
+
+
 ## Put Data Back Into original Image
 COUNT <- 0
 IMAGE <- matrix(NA,512,512)
