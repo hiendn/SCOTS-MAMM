@@ -1,3 +1,5 @@
+## Copyright Hien Duy Nguyen - University of Queensland 2016/06/02
+
 library(AnalyzeFMRI)
 rm(list=ls())
 
